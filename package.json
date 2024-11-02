@@ -1,0 +1,17 @@
+{
+  "name": "clase-3",
+  "version": "0.0.1",
+  "description": "REST API",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "author": "Jose Arango",
+  "license": "ISC",
+  "dependencies": {
+    "clase-3": "file:",
+    "cors": "2.8.5",
+    "express": "4.21.1",
+    "zod": "3.23.8"
+  }
+}
